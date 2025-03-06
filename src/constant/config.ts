@@ -1,5 +1,5 @@
 export const siteConfig = {
-  title: 'Next.js Template',
-  description: 'A template in Next.js and TypeScript',
+  title: 'Code conect',
+  description: 'Uma rede social para desenvolvedores',
   url: 'https://google.com',
 };
