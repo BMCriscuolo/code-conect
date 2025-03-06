@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import '@/styles/globals.css';
 import { siteConfig } from '@/constant/config';
+import { Aside } from '@/components/aside';
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
@@ -33,7 +34,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-br">
-      <body>{children}</body>
+      <body>
+        <Aside />
+        {children}
+      </body>
     </html>
   );
 }
