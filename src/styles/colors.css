@@ -1,0 +1,104 @@
+.gray {
+  --tp-color-primary-100: #f3f4f6;
+  --tp-color-primary-200: #e5e7eb;
+  --tp-color-primary-300: #d1d5db;
+  --tp-color-primary-400: #9ca3af;
+  --tp-color-primary-500: #6b7280;
+  --tp-color-primary-600: #4b5563;
+  --tp-color-primary-700: #374151;
+  --tp-color-primary-800: #1f2937;
+  --tp-color-primary-900: #111827;
+  --color-primary-100: var(--tp-color-primary-100);
+  --color-primary-200: var(--tp-color-primary-200);
+  --color-primary-300: var(--tp-color-primary-300);
+  --color-primary-400: var(--tp-color-primary-400);
+  --color-primary-500: var(--tp-color-primary-500);
+  --color-primary-600: var(--tp-color-primary-600);
+  --color-primary-700: var(--tp-color-primary-700);
+  --color-primary-800: var(--tp-color-primary-800);
+  --color-primary-900: var(--tp-color-primary-900);
+}
+
+.error {
+  --tp-color-primary-100: #fee2e2;
+  --tp-color-primary-200: #fecaca;
+  --tp-color-primary-300: #fca5a5;
+  --tp-color-primary-400: #f87171;
+  --tp-color-primary-500: #ef4444;
+  --tp-color-primary-600: #dc2626;
+  --tp-color-primary-700: #b91c1c;
+  --tp-color-primary-800: #991b1b;
+  --tp-color-primary-900: #7f1d1d;
+  --color-primary-100: var(--tp-color-primary-100);
+  --color-primary-200: var(--tp-color-primary-200);
+  --color-primary-300: var(--tp-color-primary-300);
+  --color-primary-400: var(--tp-color-primary-400);
+  --color-primary-500: var(--tp-color-primary-500);
+  --color-primary-600: var(--tp-color-primary-600);
+  --color-primary-700: var(--tp-color-primary-700);
+  --color-primary-800: var(--tp-color-primary-800);
+  --color-primary-900: var(--tp-color-primary-900);
+}
+
+.success {
+  --tp-color-primary-100: #dcfce7;
+  --tp-color-primary-200: #bbf7d0;
+  --tp-color-primary-300: #86efac;
+  --tp-color-primary-400: #4ade80;
+  --tp-color-primary-500: #22c55e;
+  --tp-color-primary-600: #16a34a;
+  --tp-color-primary-700: #15803d;
+  --tp-color-primary-800: #166534;
+  --tp-color-primary-900: #14532d;
+  --color-primary-100: var(--tp-color-primary-100);
+  --color-primary-200: var(--tp-color-primary-200);
+  --color-primary-300: var(--tp-color-primary-300);
+  --color-primary-400: var(--tp-color-primary-400);
+  --color-primary-500: var(--tp-color-primary-500);
+  --color-primary-600: var(--tp-color-primary-600);
+  --color-primary-700: var(--tp-color-primary-700);
+  --color-primary-800: var(--tp-color-primary-800);
+  --color-primary-900: var(--tp-color-primary-900);
+}
+
+.information {
+  --tp-color-primary-100: #e0f2fe;
+  --tp-color-primary-200: #bae6fd;
+  --tp-color-primary-300: #7dd3fc;
+  --tp-color-primary-400: #38bdf8;
+  --tp-color-primary-500: #0ea5e9;
+  --tp-color-primary-600: #0284c7;
+  --tp-color-primary-700: #0369a1;
+  --tp-color-primary-800: #075985;
+  --tp-color-primary-900: #0c4a6e;
+  --color-primary-100: var(--tp-color-primary-100);
+  --color-primary-200: var(--tp-color-primary-200);
+  --color-primary-300: var(--tp-color-primary-300);
+  --color-primary-400: var(--tp-color-primary-400);
+  --color-primary-500: var(--tp-color-primary-500);
+  --color-primary-600: var(--tp-color-primary-600);
+  --color-primary-700: var(--tp-color-primary-700);
+  --color-primary-800: var(--tp-color-primary-800);
+  --color-primary-900: var(--tp-color-primary-900);
+}
+
+.warning {
+  --tp-color-primary-100: #fef3c7;
+  --tp-color-primary-200: #fde68a;
+  --tp-color-primary-300: #fcd34d;
+  --tp-color-primary-400: #fbbf24;
+  --tp-color-primary-500: #f59e0b;
+  --tp-color-primary-600: #d97706;
+  --tp-color-primary-700: #b45309;
+  --tp-color-primary-800: #92400e;
+  --tp-color-primary-900: #78350f;
+  --color-primary-100: var(--tp-color-primary-100);
+  --color-primary-200: var(--tp-color-primary-200);
+  --color-primary-300: var(--tp-color-primary-300);
+  --color-primary-400: var(--tp-color-primary-400);
+  --color-primary-500: var(--tp-color-primary-500);
+  --color-primary-600: var(--tp-color-primary-600);
+  --color-primary-700: var(--tp-color-primary-700);
+  --color-primary-800: var(--tp-color-primary-800);
+  --color-primary-900: var(--tp-color-primary-900);
+}
