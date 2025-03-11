@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import '@/styles/globals.css';
+import '@/styles/colors.css';
 import { siteConfig } from '@/constant/config';
 import { Aside } from '@/components/aside';
 
@@ -34,7 +35,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-br">
-      <body>
+      <body className="mx-auto my-14 flex h-screen w-[75rem] gap-7 bg-custom-gradient">
         <Aside />
         {children}
       </body>

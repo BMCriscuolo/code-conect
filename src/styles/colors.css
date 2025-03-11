@@ -1,13 +1,12 @@
 .gray {
-  --tp-color-primary-100: #f3f4f6;
-  --tp-color-primary-200: #e5e7eb;
-  --tp-color-primary-300: #d1d5db;
-  --tp-color-primary-400: #9ca3af;
-  --tp-color-primary-500: #6b7280;
-  --tp-color-primary-600: #4b5563;
-  --tp-color-primary-700: #374151;
-  --tp-color-primary-800: #1f2937;
-  --tp-color-primary-900: #111827;
+  --tp-color-primary-100: #e1e1e1;
+  --tp-color-primary-200: #bcbcbc;
+  --tp-color-primary-300: #888888;
+  --tp-color-primary-400: #3e3e3f;
+  --tp-color-primary-500: #171d1f;
+  --tp-color-primary-600: #01080e;
+  --tp-color-primary-700: #0e1112;
+  --tp-color-primary-800: #00090e;
   --color-primary-100: var(--tp-color-primary-100);
   --color-primary-200: var(--tp-color-primary-200);
   --color-primary-300: var(--tp-color-primary-300);
@@ -16,7 +15,6 @@
   --color-primary-600: var(--tp-color-primary-600);
   --color-primary-700: var(--tp-color-primary-700);
   --color-primary-800: var(--tp-color-primary-800);
-  --color-primary-900: var(--tp-color-primary-900);
 }
 
 .error {
